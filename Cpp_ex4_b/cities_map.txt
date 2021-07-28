@@ -1,0 +1,48 @@
+Algiers Black Madrid Paris Istanbul Cairo  3
+Atlanta Blue Chicago Miami Washington  3
+Baghdad Black Tehran Istanbul Cairo Riyadh Karachi  5
+Bangkok Red Kolkata Chennai Jakarta HoChiMinhCity HongKong 5
+Beijing Red Shanghai Seoul 2
+Bogota Yellow MexicoCity Lima Miami SaoPaulo BuenosAires 5
+BuenosAires Yellow Bogota SaoPaulo 2
+Cairo Black Algiers Istanbul Baghdad Khartoum Riyadh  5
+Chennai Black Mumbai Delhi Kolkata Bangkok Jakarta 5
+Chicago Blue SanFrancisco LosAngeles MexicoCity Atlanta Montreal 5
+Delhi Black Tehran Karachi Mumbai Chennai Kolkata  5
+Essen Blue London Paris Milan StPetersburg  4
+HoChiMinhCity Red Jakarta Bangkok HongKong Manila 4============
+HongKong Red Bangkok Kolkata HoChiMinhCity Shanghai Manila Taipei 6
+Istanbul Black Milan Algiers StPetersburg Cairo Baghdad Moscow  6
+Jakarta Red Chennai Bangkok HoChiMinhCity Sydney 4
+Johannesburg Yellow Kinshasa Khartoum 2
+Karachi Black Tehran Baghdad Riyadh Mumbai Delhi 5
+Khartoum Yellow Cairo Lagos Kinshasa Johannesburg 4
+Kinshasa Yellow Lagos Khartoum Johannesburg  3
+Kolkata Black Delhi Chennai Bangkok HongKong  4
+Lagos Yellow SaoPaulo Khartoum Kinshasa   3
+Lima Yellow MexicoCity Bogota Santiago  3
+London Blue NewYork Madrid Essen Paris  4
+LosAngeles Yellow SanFrancisco Chicago MexicoCity Sydney  4
+Madrid Blue London NewYork Paris SaoPaulo Algiers  5
+Manila Red Taipei SanFrancisco HoChiMinhCity Sydney HongKong 5
+MexicoCity Yellow LosAngeles Chicago Miami Lima Bogota 5
+Miami Yellow Atlanta MexicoCity Washington Bogota 4
+Milan Blue Essen Paris Istanbul  3
+Montreal Blue Chicago Washington NewYork 3
+Moscow Black StPetersburg Istanbul Tehran  3
+Mumbai Black Karachi Delhi Chennai  3
+NewYork Blue Montreal Washington London Madrid  4
+Osaka Red Taipei Tokyo  2
+Paris Blue Algiers Essen Madrid Milan London 5
+Riyadh Black Baghdad Cairo Karachi  4
+SanFrancisco Blue LosAngeles Chicago Tokyo Manila  4
+Santiago Yellow Lima 1
+SaoPaulo Yellow Bogota BuenosAires Lagos Madrid  4
+Seoul Red Beijing Shanghai Tokyo  3
+Shanghai Red Beijing HongKong Taipei Seoul Tokyo  5
+StPetersburg Blue Essen Istanbul Moscow  3
+Sydney Red Jakarta Manila LosAngeles  3
+Taipei Red Shanghai HongKong Osaka Manila  4
+Tehran Black Baghdad Moscow Karachi Delhi  4
+Tokyo Red Seoul Shanghai Osaka SanFrancisco  4
+Washington Blue Atlanta NewYork Montreal Miami  4
